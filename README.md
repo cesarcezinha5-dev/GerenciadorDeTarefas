@@ -20,12 +20,12 @@ As tarefas são armazenadas em uma lista dentro do próprio programa.
 
 Neste projeto pratiquei alguns conceitos básicos de Python:
 
-Funções
-Listas
-Estrutura de repetição while
-Estruturas condicionais if, elif e else
-Entrada de dados com input()
-Manipulação de listas com append() e remove()
+Funções;
+Listas;
+Estrutura de repetição while;
+Estruturas condicionais if, elif e else;
+Entrada de dados com input();
+Manipulação de listas com append() e remove();
 
 Para rodar o programa basta ter o Python instalado e executar o arquivo no terminal:
 
